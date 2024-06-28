@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+body {
+    background: linear-gradient(to right, #ff007f, #ff99cc);
+    font-family: "Gloria Hallelujah", cursive;
+}
+
+html {
+    padding: 2rem 0rem;
+}
+
+/* body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+} */
+
+.top {
+    text-align: right;
+    margin-bottom: 8rem;
+    padding-right: 1rem;
+}
+
+.top a {
+    text-decoration: none;
+    color: #ff007f;
+}
+
+.top a:hover {
+    color: white;
+}
+
+.main {
+    text-align: center;
+}
+
+.main h1 {
+    color: white;
+    margin: 2rem 0rem 2rem 0rem;
+}
+
+.main p {
+    margin: 0rem 0rem 5rem 0rem;
+}
+
+.main-pic {
+    width: 50%;
+    border: 2px solid lightgreen;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: rgb(215, 209, 209);
+}
+
+.button.pump img {
+    width: 100%;
+}
+
+.marquee-container {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    transform: rotate(-2deg); /* Adjust the angle as needed */
+}
+
+.marquee {
+    display: flex;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    background-color: white;
+    margin: 2rem 0rem;
+    padding: 2rem;
+}
+
+.marquee span {
+    font-size: 2em;
+    font-weight: bold;
+    padding-right: 50px; /* Adjust space between words as needed */
+    animation: move 10s linear infinite;
+    background-color: white;
+    color: black;
+}
+
+@keyframes move {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.gallery-container {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
+.gallery {
+    margin-top: 5rem;
+    display: flex;
+    white-space: nowrap;
+    animation: moveGallery 15s linear infinite;
+}
+
+.gallery img {
+    width: 200px; /* Adjust the width as needed */
+    height: auto;
+    padding-right: 10%; /* Adjust space between images as needed */
+}
+
+@keyframes moveGallery {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+@media screen and (min-width: 450px) and (max-width: 884px) {
+    .main-pic {
+        width: 30%;
+    }
+
+    .button.pump img {
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 885px) and (max-width: 1200px) {
+    .main-pic {
+        width: 20%;
+    }
+
+    .button.pump img {
+        width: 40%;
+    }
+
+    .gallery img {
+        width: 50%; /* Adjust the width as needed */
+        height: auto;
+        padding-right: 10%; /* Adjust space between images as needed */
+    }
+}
+
+@media screen and (min-width: 1201px) {
+    .main-pic {
+        width: 10%;
+    }
+
+    .button.pump img {
+        width: 40%;
+    }
+
+    .gallery img {
+        width: 30%; /* Adjust the width as needed */
+        height: auto;
+        padding-right: 10%; /* Adjust space between images as needed */
+    }
+}
