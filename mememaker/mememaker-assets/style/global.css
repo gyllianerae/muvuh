@@ -1,23 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
 :root {
-    --bg: hsl(51, 55%, 82%);
-    --dark-blue: hsl(201, 100%, 14%);
-    --yellow: hsl(40, 97%, 64%);
-    --orange: hsl(31, 100%, 48%);
+    --hot-pink: #ff007f;
+    --light-pink: #ff99cc;
 }
 
 * {
-    font-family: "Gochi Hand", cursive;
+    font-family: "Gloria Hallelujah", cursive;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: var(--bg);
 }
 
 body {
     overflow: hidden;
     overflow-y: auto;
-    background-color: var(--dark-blue);
+    background-color: #ff99cc;
     margin-bottom: 5rem;
+    color: var(--hot-pink);
 }
 
 .navbar {
@@ -99,12 +99,12 @@ h1 {
 }
 
 .right-view {
-    background-color: var(--bg);
+    background-color: pink;
     padding: 5%;
 }
 
 .left-view {
-    background-color: white;
+    background-color: beige;
     padding: 5%;
 }
 
@@ -130,13 +130,13 @@ h1 {
 #reset-btn, #random-btn, #download-btn {
     margin: 0rem 1rem;
     font-size: 1.5rem;
-    color: var(--dark-blue);
+    color: var(--hot-pink);
     display: inline-block;
 }
 
 #reset-btn:hover, #random-btn:hover, #download-btn:hover {
     cursor: pointer;
-    color: var(--orange);
+    color: black;
 }
 
 .light-button {
@@ -196,7 +196,7 @@ h1 {
 .categories {
     border: 1px solid var(--dark-blue);
     border-radius: 40%;
-    background-color: var(--bg);
+    background-color: white;
 }
 
 .categories img {
@@ -204,8 +204,8 @@ h1 {
 }
 
 .categories.active {
-    background-color: var(--yellow);
-    box-shadow: 0px 0px 5px 5px var(--yellow);
+    background-color: var(--light-pink);
+    box-shadow: 0px 0px 5px 5px var(--hot-pink);
 }
 
 .category-buttons {
@@ -280,9 +280,9 @@ h1 {
 }
 
 .parts-selected {
-    border: 3px solid var(--dark-blue);
-    background-color: var(--bg);
-    box-shadow: 0px 0px 5px 5px var(--dark-blue);
+    border: 3px solid var(--hot-pink);
+    background-color: white;
+    box-shadow: 0px 0px 5px 5px var(--light-pink);
 }
 
 .sns {

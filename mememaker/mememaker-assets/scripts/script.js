@@ -145,76 +145,76 @@ function selectParts(type, idx) {
 
 AddParts(bodyList, 'body',0, undefined, 'mememaker-assets/img/base.png', true);
 
-AddParts(headList, 'head',0, 'mememaker-assets/img/none.png', undefined, true);
-AddParts(headList, 'head',1, 'mememaker-assets/img/icons/head/001.png', 'mememaker-assets/img/head/001.png');
-AddParts(headList, 'head',2, 'mememaker-assets/img/icons/head/002.png', 'mememaker-assets/img/head/002.png');
-AddParts(headList, 'head',3, 'mememaker-assets/img/icons/head/003.png', 'mememaker-assets/img/head/003.png');
-AddParts(headList, 'head',4, 'mememaker-assets/img/icons/head/004.png', 'mememaker-assets/img/head/004.png');
-AddParts(headList, 'head',5, 'mememaker-assets/img/icons/head/005.png', 'mememaker-assets/img/head/005.png');
-AddParts(headList, 'head',6, 'mememaker-assets/img/icons/head/006.png', 'mememaker-assets/img/head/006.png');
-AddParts(headList, 'head',7, 'mememaker-assets/img/icons/head/007.png', 'mememaker-assets/img/head/007.png');
-AddParts(headList, 'head',8, 'mememaker-assets/img/icons/head/008.png', 'mememaker-assets/img/head/008.png');
-AddParts(headList, 'head',9, 'mememaker-assets/img/icons/head/009.png', 'mememaker-assets/img/head/009.png');
-AddParts(headList, 'head',10, 'mememaker-assets/img/icons/head/010.png', 'mememaker-assets/img/head/010.png');
-AddParts(headList, 'head',11, 'mememaker-assets/img/icons/head/011.png', 'mememaker-assets/img/head/011.png');
-AddParts(headList, 'head',12, 'mememaker-assets/img/icons/head/012.png', 'mememaker-assets/img/head/012.png');
+// AddParts(headList, 'head',0, 'mememaker-assets/img/none.png', undefined, true);
+AddParts(headList, 'head',1, 'mememaker-assets/img/icons/head/1.png', 'mememaker-assets/img/head/1.png');
+AddParts(headList, 'head',2, 'mememaker-assets/img/icons/head/2.png', 'mememaker-assets/img/head/2.png');
+AddParts(headList, 'head',3, 'mememaker-assets/img/icons/head/3.png', 'mememaker-assets/img/head/3.png');
+AddParts(headList, 'head',4, 'mememaker-assets/img/icons/head/4.png', 'mememaker-assets/img/head/4.png');
+AddParts(headList, 'head',5, 'mememaker-assets/img/icons/head/5.png', 'mememaker-assets/img/head/5.png');
+AddParts(headList, 'head',6, 'mememaker-assets/img/icons/head/6.png', 'mememaker-assets/img/head/6.png');
+// AddParts(headList, 'head',7, 'mememaker-assets/img/icons/head/007.png', 'mememaker-assets/img/head/007.png');
+// AddParts(headList, 'head',8, 'mememaker-assets/img/icons/head/008.png', 'mememaker-assets/img/head/008.png');
+// AddParts(headList, 'head',9, 'mememaker-assets/img/icons/head/009.png', 'mememaker-assets/img/head/009.png');
+// AddParts(headList, 'head',10, 'mememaker-assets/img/icons/head/010.png', 'mememaker-assets/img/head/010.png');
+// AddParts(headList, 'head',11, 'mememaker-assets/img/icons/head/011.png', 'mememaker-assets/img/head/011.png');
+// AddParts(headList, 'head',12, 'mememaker-assets/img/icons/head/012.png', 'mememaker-assets/img/head/012.png');
 
-AddParts(eyesList, 'eyes',0, 'mememaker-assets/img/none.png', undefined, true);
-AddParts(eyesList, 'eyes',1, 'mememaker-assets/img/icons/eyes/001.png', 'mememaker-assets/img/eyes/001.png');
-// AddParts(eyesList, 'eyes',2, 'mememaker-assets/img/icons/eyes/2.png', 'mememaker-assets/img/eyes/2.png');
-// AddParts(eyesList, 'eyes',3, 'mememaker-assets/img/icons/eyes/3.png', 'mememaker-assets/img/eyes/3.png');
-// AddParts(eyesList, 'eyes',4, 'mememaker-assets/img/icons/eyes/4.png', 'mememaker-assets/img/eyes/4.png');
-// AddParts(eyesList, 'eyes',5, 'mememaker-assets/img/icons/eyes/5.png', 'mememaker-assets/img/eyes/5.png');
-// AddParts(eyesList, 'eyes',6, 'mememaker-assets/img/icons/eyes/006.png', 'mememaker-assets/img/eyes/006.png');
+// AddParts(eyesList, 'eyes',0, 'mememaker-assets/img/none.png', undefined, true);
+AddParts(eyesList, 'eyes',1, 'mememaker-assets/img/icons/eyes/1.png', 'mememaker-assets/img/eyes/1.png');
+AddParts(eyesList, 'eyes',2, 'mememaker-assets/img/icons/eyes/2.png', 'mememaker-assets/img/eyes/2.png');
+AddParts(eyesList, 'eyes',3, 'mememaker-assets/img/icons/eyes/3.png', 'mememaker-assets/img/eyes/3.png');
+AddParts(eyesList, 'eyes',4, 'mememaker-assets/img/icons/eyes/4.png', 'mememaker-assets/img/eyes/4.png');
+AddParts(eyesList, 'eyes',5, 'mememaker-assets/img/icons/eyes/5.png', 'mememaker-assets/img/eyes/5.png');
+AddParts(eyesList, 'eyes',6, 'mememaker-assets/img/icons/eyes/6.png', 'mememaker-assets/img/eyes/6.png');
 // AddParts(eyesList, 'eyes',7, 'mememaker-assets/img/icons/eyes/007.png', 'mememaker-assets/img/eyes/007.png');
 // AddParts(eyesList, 'eyes',8, 'mememaker-assets/img/icons/eyes/008.png', 'mememaker-assets/img/eyes/008.png');
 
 // AddParts(mouthList, 'mouth',0, 'mememaker-assets/img/none.png', undefined, true);
-// AddParts(mouthList, 'mouth',1, 'mememaker-assets/img/icons/mouth/1.png', 'mememaker-assets/img/mouth/1.png');
-// AddParts(mouthList, 'mouth',2, 'mememaker-assets/img/icons/mouth/2.png', 'mememaker-assets/img/mouth/2.png');
-// AddParts(mouthList, 'mouth',3, 'mememaker-assets/img/icons/mouth/3.png', 'mememaker-assets/img/mouth/3.png');
-// AddParts(mouthList, 'mouth',4, 'mememaker-assets/img/icons/mouth/4.png', 'mememaker-assets/img/mouth/4.png');
-// AddParts(mouthList, 'mouth',5, 'mememaker-assets/img/icons/mouth/5.png', 'mememaker-assets/img/mouth/5.png');
-// AddParts(mouthList, 'mouth',6, 'mememaker-assets/img/icons/mouth/6.png', 'mememaker-assets/img/mouth/6.png');
+AddParts(mouthList, 'mouth',1, 'mememaker-assets/img/icons/mouth/1.png', 'mememaker-assets/img/mouth/1.png');
+AddParts(mouthList, 'mouth',2, 'mememaker-assets/img/icons/mouth/2.png', 'mememaker-assets/img/mouth/2.png');
+AddParts(mouthList, 'mouth',3, 'mememaker-assets/img/icons/mouth/3.png', 'mememaker-assets/img/mouth/3.png');
+AddParts(mouthList, 'mouth',4, 'mememaker-assets/img/icons/mouth/4.png', 'mememaker-assets/img/mouth/4.png');
+AddParts(mouthList, 'mouth',5, 'mememaker-assets/img/icons/mouth/5.png', 'mememaker-assets/img/mouth/5.png');
+AddParts(mouthList, 'mouth',6, 'mememaker-assets/img/icons/mouth/6.png', 'mememaker-assets/img/mouth/6.png');
 // AddParts(mouthList, 'mouth',7, 'mememaker-assets/img/icons/mouth/7.png', 'mememaker-assets/img/mouth/7.png');
 
-AddParts(topList, 'top',0, 'mememaker-assets/img/none.png', undefined, true);
-AddParts(topList, 'top',1, 'mememaker-assets/img/icons/top/001.png', 'mememaker-assets/img/top/001.png');
-AddParts(topList, 'top',2, 'mememaker-assets/img/icons/top/002.png', 'mememaker-assets/img/top/002.png');
-AddParts(topList, 'top',3, 'mememaker-assets/img/icons/top/003.png', 'mememaker-assets/img/top/003.png');
-AddParts(topList, 'top',4, 'mememaker-assets/img/icons/top/004.png', 'mememaker-assets/img/top/004.png');
-AddParts(topList, 'top',5, 'mememaker-assets/img/icons/top/005.png', 'mememaker-assets/img/top/005.png');
-AddParts(topList, 'top',6, 'mememaker-assets/img/icons/top/006.png', 'mememaker-assets/img/top/006.png');
-AddParts(topList, 'top',7, 'mememaker-assets/img/icons/top/007.png', 'mememaker-assets/img/top/007.png');
-AddParts(topList, 'top',8, 'mememaker-assets/img/icons/top/008.png', 'mememaker-assets/img/top/008.png');
-AddParts(topList, 'top',9, 'mememaker-assets/img/icons/top/009.png', 'mememaker-assets/img/top/009.png');
-AddParts(topList, 'top',10, 'mememaker-assets/img/icons/top/010.png', 'mememaker-assets/img/top/010.png');
-AddParts(topList, 'top',11, 'mememaker-assets/img/icons/top/011.png', 'mememaker-assets/img/top/011.png');
-AddParts(topList, 'top',12, 'mememaker-assets/img/icons/top/012.png', 'mememaker-assets/img/top/012.png');
+// AddParts(topList, 'top',0, 'mememaker-assets/img/none.png', undefined, true);
+AddParts(topList, 'top',1, 'mememaker-assets/img/icons/top/1.png', 'mememaker-assets/img/top/1.png');
+AddParts(topList, 'top',2, 'mememaker-assets/img/icons/top/2.png', 'mememaker-assets/img/top/2.png');
+AddParts(topList, 'top',3, 'mememaker-assets/img/icons/top/3.png', 'mememaker-assets/img/top/3.png');
+AddParts(topList, 'top',4, 'mememaker-assets/img/icons/top/4.png', 'mememaker-assets/img/top/4.png');
+AddParts(topList, 'top',5, 'mememaker-assets/img/icons/top/5.png', 'mememaker-assets/img/top/5.png');
+AddParts(topList, 'top',6, 'mememaker-assets/img/icons/top/6.png', 'mememaker-assets/img/top/6.png');
+AddParts(topList, 'top',7, 'mememaker-assets/img/icons/top/7.png', 'mememaker-assets/img/top/7.png');
+AddParts(topList, 'top',8, 'mememaker-assets/img/icons/top/8.png', 'mememaker-assets/img/top/8.png');
+AddParts(topList, 'top',9, 'mememaker-assets/img/icons/top/9.png', 'mememaker-assets/img/top/9.png');
+AddParts(topList, 'top',10, 'mememaker-assets/img/icons/top/10.png', 'mememaker-assets/img/top/10.png');
+AddParts(topList, 'top',11, 'mememaker-assets/img/icons/top/11.png', 'mememaker-assets/img/top/11.png');
+// AddParts(topList, 'top',12, 'mememaker-assets/img/icons/top/012.png', 'mememaker-assets/img/top/012.png');
 
-AddParts(bottomList, 'bottom', 0, 'mememaker-assets/img/none.png', undefined, true);
-AddParts(bottomList, 'bottom', 1, 'mememaker-assets/img/icons/bottom/001.png', 'mememaker-assets/img/bottom/001.png');
-AddParts(bottomList, 'bottom', 2, 'mememaker-assets/img/icons/bottom/002.png', 'mememaker-assets/img/bottom/002.png');
-AddParts(bottomList, 'bottom', 3, 'mememaker-assets/img/icons/bottom/003.png', 'mememaker-assets/img/bottom/003.png');
-AddParts(bottomList, 'bottom', 4, 'mememaker-assets/img/icons/bottom/004.png', 'mememaker-assets/img/bottom/004.png');
-AddParts(bottomList, 'bottom', 5, 'mememaker-assets/img/icons/bottom/005.png', 'mememaker-assets/img/bottom/005.png');
-AddParts(bottomList, 'bottom', 6, 'mememaker-assets/img/icons/bottom/006.png', 'mememaker-assets/img/bottom/006.png');
-AddParts(bottomList, 'bottom', 7, 'mememaker-assets/img/icons/bottom/007.png', 'mememaker-assets/img/bottom/007.png');
-AddParts(bottomList, 'bottom', 8, 'mememaker-assets/img/icons/bottom/008.png', 'mememaker-assets/img/bottom/008.png');
-AddParts(bottomList, 'bottom', 9, 'mememaker-assets/img/icons/bottom/009.png', 'mememaker-assets/img/bottom/009.png');
-AddParts(bottomList, 'bottom', 10, 'mememaker-assets/img/icons/bottom/010.png', 'mememaker-assets/img/bottom/010.png');
+// AddParts(bottomList, 'bottom', 0, 'mememaker-assets/img/none.png', undefined, true);
+// AddParts(bottomList, 'bottom', 1, 'mememaker-assets/img/icons/bottom/001.png', 'mememaker-assets/img/bottom/001.png');
+// AddParts(bottomList, 'bottom', 2, 'mememaker-assets/img/icons/bottom/002.png', 'mememaker-assets/img/bottom/002.png');
+// AddParts(bottomList, 'bottom', 3, 'mememaker-assets/img/icons/bottom/003.png', 'mememaker-assets/img/bottom/003.png');
+// AddParts(bottomList, 'bottom', 4, 'mememaker-assets/img/icons/bottom/004.png', 'mememaker-assets/img/bottom/004.png');
+// AddParts(bottomList, 'bottom', 5, 'mememaker-assets/img/icons/bottom/005.png', 'mememaker-assets/img/bottom/005.png');
+// AddParts(bottomList, 'bottom', 6, 'mememaker-assets/img/icons/bottom/006.png', 'mememaker-assets/img/bottom/006.png');
+// AddParts(bottomList, 'bottom', 7, 'mememaker-assets/img/icons/bottom/007.png', 'mememaker-assets/img/bottom/007.png');
+// AddParts(bottomList, 'bottom', 8, 'mememaker-assets/img/icons/bottom/008.png', 'mememaker-assets/img/bottom/008.png');
+// AddParts(bottomList, 'bottom', 9, 'mememaker-assets/img/icons/bottom/009.png', 'mememaker-assets/img/bottom/009.png');
+// AddParts(bottomList, 'bottom', 10, 'mememaker-assets/img/icons/bottom/010.png', 'mememaker-assets/img/bottom/010.png');
 // AddParts(bottomList, 'bottom', 11, 'mememaker-assets/img/icons/bottom/11.png', 'mememaker-assets/img/bottom/11.png');
 
-AddParts(bgList, 'bg', 1, 'mememaker-assets/img/icons/background/001.png', 'mememaker-assets/img/background/001.png', true);
-AddParts(bgList, 'bg', 2, 'mememaker-assets/img/icons/background/002.png', 'mememaker-assets/img/background/002.png');
-AddParts(bgList, 'bg', 3, 'mememaker-assets/img/icons/background/003.png', 'mememaker-assets/img/background/003.png');
-AddParts(bgList, 'bg', 4, 'mememaker-assets/img/icons/background/004.png', 'mememaker-assets/img/background/004.png');
-AddParts(bgList, 'bg', 5, 'mememaker-assets/img/icons/background/005.png', 'mememaker-assets/img/background/005.png');
-AddParts(bgList, 'bg', 6, 'mememaker-assets/img/icons/background/006.png', 'mememaker-assets/img/background/006.png');
-AddParts(bgList, 'bg', 7, 'mememaker-assets/img/icons/background/007.png', 'mememaker-assets/img/background/007.png');
-AddParts(bgList, 'bg', 8, 'mememaker-assets/img/icons/background/008.png', 'mememaker-assets/img/background/008.png');
-AddParts(bgList, 'bg', 9, 'mememaker-assets/img/icons/background/009.png', 'mememaker-assets/img/background/009.png');
-AddParts(bgList, 'bg', 10, 'mememaker-assets/img/icons/background/010.png', 'mememaker-assets/img/background/010.png');
+AddParts(bgList, 'bg', 1, 'mememaker-assets/img/icons/background/1.png', 'mememaker-assets/img/background/1.png', true);
+AddParts(bgList, 'bg', 2, 'mememaker-assets/img/icons/background/2.png', 'mememaker-assets/img/background/2.png');
+AddParts(bgList, 'bg', 3, 'mememaker-assets/img/icons/background/3.png', 'mememaker-assets/img/background/3.png');
+AddParts(bgList, 'bg', 4, 'mememaker-assets/img/icons/background/4.png', 'mememaker-assets/img/background/4.png');
+AddParts(bgList, 'bg', 5, 'mememaker-assets/img/icons/background/5.png', 'mememaker-assets/img/background/5.png');
+AddParts(bgList, 'bg', 6, 'mememaker-assets/img/icons/background/6.png', 'mememaker-assets/img/background/6.png');
+AddParts(bgList, 'bg', 7, 'mememaker-assets/img/icons/background/7.png', 'mememaker-assets/img/background/7.png');
+AddParts(bgList, 'bg', 8, 'mememaker-assets/img/icons/background/8.png', 'mememaker-assets/img/background/8.png');
+// AddParts(bgList, 'bg', 9, 'mememaker-assets/img/icons/background/009.png', 'mememaker-assets/img/background/009.png');
+// AddParts(bgList, 'bg', 10, 'mememaker-assets/img/icons/background/010.png', 'mememaker-assets/img/background/010.png');
 
 
 
@@ -239,17 +239,17 @@ setInterval(() => {
         context.drawImage(current_head, 0, 0, 400, 400 );
     }
 
-    // if(current_mouth != undefined) {
-    //     context.drawImage(current_mouth, 0, 0, 400, 400 );
-    // }
+    if(current_mouth != undefined) {
+        context.drawImage(current_mouth, 0, 0, 400, 400 );
+    }
 
     if(current_eyes != undefined) {
         context.drawImage(current_eyes, 0, 0, 400, 400 );
     }
     
-    if(current_bottom != undefined) {
-        context.drawImage(current_bottom, 0, 0, 400, 400 );
-    }
+    // if(current_bottom != undefined) {
+    //     context.drawImage(current_bottom, 0, 0, 400, 400 );
+    // }
 
     if(current_top != undefined) {
         context.drawImage(current_top, 0, 0, 400, 400 );
@@ -262,36 +262,36 @@ function randRange(min, max) {
 
 const resetBtn = document.getElementById('reset-btn');
 resetBtn.onclick = () => {
-    selectParts('head', 0);
-    selectParts('eyes', 0);
-    // selectParts('mouth', 0);
+    selectParts('head', 1);
+    selectParts('eyes', 1);
+    selectParts('mouth', 1);
     selectParts('bg', 1);
-    selectParts('bottom', 0);
-    selectParts('top', 0);
+    // selectParts('bottom', 1);
+    selectParts('top', 1);
 }
 
 const randomBtn = document.getElementById('random-btn');
 
 randomBtn.onclick = () => {
-    const randHead = randRange(0, 12);
-    const randEyes = randRange(0, 1);
-    // const randMouth = randRange(0, 7);
-    const randBg = randRange(1, 10);
-    const randbottom = randRange(0, 10);
-    const randtop = randRange(0, 12);
+    const randHead = randRange(1, 6);
+    const randEyes = randRange(1, 6);
+    const randMouth = randRange(1, 6);
+    const randBg = randRange(1, 8);
+    // const randbottom = randRange(0, 10);
+    const randtop = randRange(1, 11);
 
     selectParts('head', randHead);
     selectParts('eyes', randEyes);
-    // selectParts('mouth', randMouth);
+    selectParts('mouth', randMouth);
     selectParts('bg', randBg);
-    selectParts('bottom', randbottom);
+    // selectParts('bottom', randbottom);
     selectParts('top', randtop);
 }
 
 const downloadBtn = document.getElementById('download-btn');
 downloadBtn.onclick = () => {
     var link = document.createElement('a');
-    link.download = 'meely.png';
+    link.download = 'muvuh.png';
     link.href = canvas.toDataURL()
     link.click();
 }
